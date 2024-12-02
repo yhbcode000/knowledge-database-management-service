@@ -1,4 +1,5 @@
 # 📚 Knowledge Database Management Service
+> ‼️This project is deprecated due to advancement of LLM eco system. To see more advancement based on current project, check our latest repo here: https://github.com/AierLab/MultiverseNote .
 
 The **Knowledge Database Management Service** is designed to manage AI knowledge in a structured way that emphasizes human control over automatic management. In addition to providing basic CRUD (Create, Read, Update, Delete) functionality, this service integrates version control and enhanced management convenience, similar to practices in other domain-specific systems.
 
